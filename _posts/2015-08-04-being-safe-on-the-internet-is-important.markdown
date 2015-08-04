@@ -2,6 +2,7 @@
 published: true
 title: Being safe on the internet is important
 layout: post
+permalink: http://www.chameleonjohn.com/store/kohls-coupon-codes
 ---
 Living in the tech world, we are bound to spend most of our time on the internet. So, almost everyone has adequate knowledge about the internet. However, there is no rose without a thorn. 
 So, you should expect some of the biggest issues happening because you are living with people on the net who want to steal your data and hack into your account. 
